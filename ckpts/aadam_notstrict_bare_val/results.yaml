@@ -1,0 +1,23 @@
+fold: 0.0
+fold_std: 0.0
+loss: 1.2178349494934082
+loss_std: 0.0
+rot_base_loss: 1.0387861728668213
+rot_base_loss_std: 0.0
+rot_loss: 1.1588099002838135
+rot_loss_std: 0.0
+tr_base_loss: 1.0130910873413086
+tr_base_loss_std: 0.0
+tr_loss: 1.276860237121582
+tr_loss_std: 0.0
+val_loss: 0.8533700108528137
+val_loss_std: 0.0
+val_rot_base_loss: 1.206781029701233
+val_rot_base_loss_std: 0.0
+val_rot_loss: 0.8927226662635803
+val_rot_loss_std: 0.0
+val_tr_base_loss: 1.0704668760299683
+val_tr_base_loss_std: 0.0
+val_tr_loss: 0.8140172958374023
+val_tr_loss_std: 0.0
+

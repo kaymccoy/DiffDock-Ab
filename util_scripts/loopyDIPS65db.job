@@ -1,0 +1,16 @@
+#!/bin/bash -l
+
+# Begin SBATCH directives
+#SBATCH --job-name=loopyDIPS65db
+#SBATCH --output=/dartfs/rc/lab/G/Grigoryanlab/home/coy/Dartmouth_PhD_Repo/loopyDIPS65db.out
+#SBATCH --nodes=10
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=1
+#SBATCH --time=48:00:00
+#SBATCH --mem=160G
+# End SBATCH directives
+
+# Job command
+
+conda activate myenv
+python3 /dartfs/rc/lab/G/Grigoryanlab/home/coy/Dartmouth_PhD_Repo/loopy_DIPs_maker.py

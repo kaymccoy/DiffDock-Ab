@@ -1,0 +1,238 @@
+batch: 0
+train_loss: 1.0566803216934204
+train_rot_base_loss: 1.0178582668304443
+train_rot_loss: 1.1233694553375244
+train_tr_base_loss: 0.9402959942817688
+train_tr_loss: 0.989991307258606
+
+batch: 0
+val_loss: 1.115372657775879
+val_rot_base_loss: 1.048771858215332
+val_rot_loss: 1.1099551916122437
+val_tr_base_loss: 1.0883866548538208
+val_tr_loss: 1.1207901239395142
+
+batch: 0
+train_loss: 1.1299453973770142
+train_rot_base_loss: 1.0178582668304443
+train_rot_loss: 1.3423748016357422
+train_tr_base_loss: 0.9402959942817688
+train_tr_loss: 0.9175159931182861
+
+batch: 0
+val_loss: 1.0532373189926147
+val_rot_base_loss: 1.048771858215332
+val_rot_loss: 1.1347490549087524
+val_tr_base_loss: 1.0883866548538208
+val_tr_loss: 0.971725583076477
+
+batch: 4280
+train_loss: 0.8541879057884216
+train_rot_base_loss: 1.236995816230774
+train_rot_loss: 0.9947524070739746
+train_tr_base_loss: 0.8138993382453918
+train_tr_loss: 0.7136235237121582
+
+batch: 4280
+val_loss: 0.7780138254165649
+val_rot_base_loss: 0.9017481207847595
+val_rot_loss: 0.6654051542282104
+val_tr_base_loss: 1.0138144493103027
+val_tr_loss: 0.8906224966049194
+
+batch: 8560
+train_loss: 0.8633544445037842
+train_rot_base_loss: 1.1092054843902588
+train_rot_loss: 0.8288323283195496
+train_tr_base_loss: 0.9617221355438232
+train_tr_loss: 0.8978766202926636
+
+batch: 8560
+val_loss: 0.998275637626648
+val_rot_base_loss: 1.1663382053375244
+val_rot_loss: 0.8280536532402039
+val_tr_base_loss: 1.3821779489517212
+val_tr_loss: 1.1684973239898682
+
+batch: 12840
+train_loss: 0.951840877532959
+train_rot_base_loss: 0.8946014642715454
+train_rot_loss: 0.8602514863014221
+train_tr_base_loss: 1.2078723907470703
+train_tr_loss: 1.043430209159851
+
+batch: 12840
+val_loss: 0.806289792060852
+val_rot_base_loss: 0.8652045130729675
+val_rot_loss: 0.7273582220077515
+val_tr_base_loss: 0.8878564238548279
+val_tr_loss: 0.8852213621139526
+
+batch: 17120
+train_loss: 0.5565769076347351
+train_rot_base_loss: 0.9969877600669861
+train_rot_loss: 0.537917971611023
+train_tr_base_loss: 0.8154016137123108
+train_tr_loss: 0.5752356052398682
+
+batch: 17120
+val_loss: 0.916824221611023
+val_rot_base_loss: 1.289158821105957
+val_rot_loss: 0.9595481753349304
+val_tr_base_loss: 0.9734068512916565
+val_tr_loss: 0.8741001486778259
+
+batch: 21400
+train_loss: 0.7672412395477295
+train_rot_base_loss: 1.041203498840332
+train_rot_loss: 0.8183434009552002
+train_tr_base_loss: 0.9451325535774231
+train_tr_loss: 0.716139018535614
+
+batch: 21400
+val_loss: 0.8370983600616455
+val_rot_base_loss: 0.9345405101776123
+val_rot_loss: 0.7648254036903381
+val_tr_base_loss: 1.0013138055801392
+val_tr_loss: 0.9093713760375977
+
+batch: 25680
+train_loss: 0.8723034858703613
+train_rot_base_loss: 0.9876910448074341
+train_rot_loss: 0.7988352179527283
+train_tr_base_loss: 1.1163967847824097
+train_tr_loss: 0.9457718133926392
+
+batch: 25680
+val_loss: 0.8487853407859802
+val_rot_base_loss: 1.024719476699829
+val_rot_loss: 0.7189030647277832
+val_tr_base_loss: 1.0903915166854858
+val_tr_loss: 0.9786675572395325
+
+batch: 29960
+train_loss: 0.9416764378547668
+train_rot_base_loss: 1.0424968004226685
+train_rot_loss: 0.8627542853355408
+train_tr_base_loss: 1.2289972305297852
+train_tr_loss: 1.0205987691879272
+
+batch: 29960
+val_loss: 0.6991516947746277
+val_rot_base_loss: 1.0441311597824097
+val_rot_loss: 0.6659013032913208
+val_tr_base_loss: 0.9251478314399719
+val_tr_loss: 0.7324020862579346
+
+batch: 34240
+train_loss: 0.7093852162361145
+train_rot_base_loss: 1.2646875381469727
+train_rot_loss: 0.7466692328453064
+train_tr_base_loss: 0.8227899670600891
+train_tr_loss: 0.6721012592315674
+
+batch: 34240
+val_loss: 4.9043169021606445
+val_rot_base_loss: 1.0101717710494995
+val_rot_loss: 6.171002388000488
+val_tr_base_loss: 1.060875654220581
+val_tr_loss: 3.637629747390747
+
+batch: 38520
+train_loss: 0.8010653257369995
+train_rot_base_loss: 0.7352003455162048
+train_rot_loss: 0.6188148260116577
+train_tr_base_loss: 0.988188624382019
+train_tr_loss: 0.9833160638809204
+
+batch: 38520
+val_loss: 0.8302209973335266
+val_rot_base_loss: 1.1429319381713867
+val_rot_loss: 0.9316546320915222
+val_tr_base_loss: 0.9817377328872681
+val_tr_loss: 0.728787362575531
+
+batch: 42800
+train_loss: 3.6825790405273438
+train_rot_base_loss: 0.8856675028800964
+train_rot_loss: 1.0575824975967407
+train_tr_base_loss: 0.975327730178833
+train_tr_loss: 6.307575702667236
+
+batch: 42800
+val_loss: 0.7510006427764893
+val_rot_base_loss: 1.1181378364562988
+val_rot_loss: 0.8464176654815674
+val_tr_base_loss: 0.8364973068237305
+val_tr_loss: 0.6555835008621216
+
+batch: 47080
+train_loss: .nan
+train_rot_base_loss: 0.7695189714431763
+train_rot_loss: .nan
+train_tr_base_loss: 1.0676721334457397
+train_tr_loss: .nan
+
+batch: 47080
+val_loss: .nan
+val_rot_base_loss: 1.1498106718063354
+val_rot_loss: .nan
+val_tr_base_loss: 1.0552000999450684
+val_tr_loss: .nan
+
+batch: 51360
+train_loss: .nan
+train_rot_base_loss: 1.1359567642211914
+train_rot_loss: .nan
+train_tr_base_loss: 0.7433421611785889
+train_tr_loss: .nan
+
+batch: 51360
+val_loss: .nan
+val_rot_base_loss: 0.9685258269309998
+val_rot_loss: .nan
+val_tr_base_loss: 0.9828132390975952
+val_tr_loss: .nan
+
+batch: 55640
+train_loss: .nan
+train_rot_base_loss: 1.166182518005371
+train_rot_loss: .nan
+train_tr_base_loss: 1.0041152238845825
+train_tr_loss: .nan
+
+batch: 55640
+val_loss: .nan
+val_rot_base_loss: 1.1428983211517334
+val_rot_loss: .nan
+val_tr_base_loss: 0.9108470678329468
+val_tr_loss: .nan
+
+batch: 59920
+train_loss: .nan
+train_rot_base_loss: 1.2748771905899048
+train_rot_loss: .nan
+train_tr_base_loss: 0.9172228574752808
+train_tr_loss: .nan
+
+batch: 59920
+val_loss: .nan
+val_rot_base_loss: 1.2020732164382935
+val_rot_loss: .nan
+val_tr_base_loss: 1.030470609664917
+val_tr_loss: .nan
+
+batch: 64200
+train_loss: .nan
+train_rot_base_loss: 1.0575910806655884
+train_rot_loss: .nan
+train_tr_base_loss: 0.7300301194190979
+train_tr_loss: .nan
+
+batch: 64200
+val_loss: .nan
+val_rot_base_loss: 1.1473681926727295
+val_rot_loss: .nan
+val_tr_base_loss: 0.965225338935852
+val_tr_loss: .nan
+
